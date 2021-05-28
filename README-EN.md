@@ -1,4 +1,4 @@
-English DOCs | (中文文档)[./README.md]
+**English DOCs | [中文文档](README.md)**
 
 # http-proxy-spring-boot-starter
 simple http proxy api to transfer any http request to a specific host. 

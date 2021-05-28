@@ -1,4 +1,4 @@
-**(English DOCs)[./README-EN.md] | 中文文档**
+**[English DOCs](README-EN.md) | 中文文档**
 
 # http-proxy-spring-boot-starter
 本项目提供一个简单的http 代理实现，通过简单的配置就可以给你的项目添加一个代理接口，并且不影响其他接口的正常访问。
